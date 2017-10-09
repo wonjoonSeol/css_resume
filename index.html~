@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Wonjoon Seol | Resume</title>
+    <link href="https://fonts.googleapis.com/css?family=Caveat|Open+Sans:400,400i,700" rel="stylesheet">
+    <link rel="stylesheet" href="css/styles.css">
+</head>
+<body>
+    <!-- // Intro -->
+    <header>
+        <div class="content-wrap">
+            <img class="profile-img column-narrow" src="images/my_pic.png" alt="Wonjoon Seol">
+            
+            <div class="column-wide">
+              <h1>Wonjoon Seol</h1>
+              <h2>2nd year King's College Student</h2>
+			  <p>A passionate, determined individual studying BSc Computer Science at King’s College London. I am currently focusing on learning C++ and building foundation skills across a broad base of computing and AI. Alongside the formal modules at university, I am also engaging in a number of extra-curricular activities including practical workshops and student representative for the informatics department. My personal interests are hardware and leather craft. Some of my creations are DIY Ambilight using Teensy 3.2 and an arcade stick made from a used gamepad.<p>
+            </div>
+        </div>
+    </header>
+    
+    <main> 
+        <!-- // Education -->
+        <section class="education">
+            <div class="content-wrap">
+                <h2>Education</h2>
+
+                <!-- Education.details -->
+                <div class="column-narrow">
+                    <h3>King's College London</h3>
+                    <p>Second Year</p>
+                    <p>Sept 2016 - June 2019</p>
+                </div>
+                <div class="column-wide">
+
+					<h4>King’s Leadership &amp; Professional Skills Award winner 2017</h4>
+                    <p>Key contributions:</p>
+                    <ul>
+						<li>Expected Grade: First Class Honours<br>(First-year exam result average 90%)</li>
+						<li>Communication skills: Student representative for the informatics department, responsible for gathering feedback and complaints from students and effectively communicating them to the department staff</li>
+						<li>Attending three 10-week workshops after lecture hours: Algorithms, Android App Development, and Web Development.</li>
+						<li>Taking up Advanced Practical Topics as an extra optional course covering a broad range of computing subjects.</li>
+                    </ul>
+				</div>
+
+                <div class="column-narrow">
+                    <h3>Chelsea Independent College</h3>
+                    <p>High School</p>
+                </div>
+                <div class="column-wide">
+					<p>Studied Mathematics, Further Mathematics and Physics with straight A academic records. Represented my school at a number of maths contests such as the British Physics Olympiad and the UK Senior Mathematics Challenge; also received a distinction in the Advanced Extension Award for Mathematics.</p>
+                </div>
+                
+		</section>
+                        <!-- // Work -->
+        <section class="work">
+            <div class="content-wrap">
+                <h2>Work Experience</h2>
+
+                <!-- Work details.-->
+                <h3>Republic of Korea Air Force</h3>
+                <h4>Sergeant</h4>
+                <p>Dec 2013 - Dec 2015.</p>
+                
+                <h3>Bank of America Merrill Lynch</h3>
+                <h4>Research Assistant</h4>
+				<p> Jun 2008 - Aug 2008</p>
+            </div>
+        </section>
+    </main>
+    
+    <!-- // Footer & contact info -->
+    <footer>
+        <div class="content-wrap">
+            <h2>Let's Keep in Touch!</h2>
+            
+            <!-- Social media and contact links. Add or remove any networks. -->
+            <div class="contact-info">
+                <a href="mailto:wonjoon.ad@gmail.com">wonjoon.ad@gmail.com</a>
+                <a href="https://github.com/wonjoonSeol">GitHub</a>
+				<a href="https://www.linkedin.com/in/wonjoonseol/">LinkedIn</a>
+            </div>
+            <p>Copyright 2017 by Wonjoon Seol</p>
+        </div>
+    </footer>
+</body>
+</html>
